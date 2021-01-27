@@ -7,6 +7,6 @@
 - 🔭 I’m currently working on a discord server, discord bot, and lcd repo
 - 🌱 I’m currently learning java script
 - 👯 I’m looking to collaborate on a discord bot or a small repo
-- 📫 How to reach me: you can dm on discord  fleoid#5085
+- 📫 How to reach me: you can dm on discord  Fleoid#5085
 
 
